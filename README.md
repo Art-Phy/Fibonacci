@@ -1,4 +1,4 @@
-# Bienvenid@s a mi Secuencia de Fibonacci
+## Bienvenid@s a mi Secuencia de Fibonacci
 
 #### Se trata de un pequeño ejercicio para practicar Python teniendo como objetivo crear la Secuencia de Fibonacci
 
