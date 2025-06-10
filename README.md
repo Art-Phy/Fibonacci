@@ -1,10 +1,6 @@
 ## Bienvenid@s a mi Secuencia de Fibonacci
 
-#### Se trata de un pequeño ejercicio para practicar Python teniendo como objetivo crear la Secuencia de Fibonacci
-
-#### La Serie de Fibonacci es una buena forma muy de practicar con las funciones, bucles while y números, que normalmente se atragantan un poco más que las palabras.
-
-#### Es un código muy sencillo, pero cumple su objetivo a la perfección
+#### El programa crea la Secuencia de Fibonacci
 
 #### Para evitar errores de los usuarios, sólo se acepta meter números, evitando así que alguien quisiera responder a la pregunta con 'infinito', sencillamente no funcionará. En la línea 4 del código esa opción queda totalmente descartada: 'n = int(input("¿Cuántos números de la secuencia deseas? "))'
 
