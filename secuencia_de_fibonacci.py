@@ -13,9 +13,9 @@ def fibonacci(n):
         print(a, end=" ") # Se imprime el número actual
 
         a, b = b, a + b
-        cuenta += 1 # Se le indica que cada sucesión es +1
+        cuenta += 1 # Se indica que cada sucesión es +1
 
-    # Este print se añade para evitar que al final de la impresión me salga un %
+    # Este print se añade para evitar que al final de la impresión salga un %
     print()
 
 # Se llama a la función
